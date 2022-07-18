@@ -11,6 +11,8 @@ ITEM STACK SIZES:
 
 - Glass Jars & thermos are now stackable
 
+- Wood & Iron Crop plots stackable
+
 CRAFTING:
 
 - Ballistic and Tazer arrows can now be crafted in fabacator bench.
@@ -97,7 +99,7 @@ WORKSHOP ITEMS:
 
 - Arrow Larkwell Tazer: Damaged increased 30 to 100
 
-- Meta_Mushroom_Seed: Changed to a serviver kit, rewarding 1 of each Pumpkin, Prime meat, Vegetable pie & Roated Vegetables. to help start off your mission.
+- Meta_Mushroom_Seed: Changed to a serviver kit, rewarding 1 of each Pumpkin, Prime meat, Vegetable pie, Roated Vegetables all Seed packs(no berry) & 100 Ice. to help start off your mission.
 
 - Mining_Backpack: Added Back pack Slots +12,Bow Reload Speed +25,Arrow Projectile Speed +10%,Bow Aim Down Sights Speed +10%
 
