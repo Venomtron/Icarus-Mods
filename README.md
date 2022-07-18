@@ -51,7 +51,7 @@ CRAFTING:
 
 - Refrigerator: lowered cost 
 
-- All Glass building:
+- All Glass building: lowered cost
 
 - Epoxy: lowered cost
 
