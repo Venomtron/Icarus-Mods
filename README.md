@@ -160,3 +160,6 @@ Other:
 - Basic Fertilizer :Planted Crop Yield 15 to 50 Crop Growth Speed 15 to 25
 
 - Extractor Electric: can be placed in invatory Extractor Drill Speed 100% (almost instant)
+
+- Camfire & fireplace Added 6 slots
+
