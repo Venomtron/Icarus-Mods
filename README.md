@@ -13,6 +13,9 @@ ITEM STACK SIZES:
 
 - Wood & Iron Crop plots stackable
 
+- Bed Roll stackable
+
+
 CRAFTING:
 
 - Ballistic and Tazer arrows can now be crafted in fabacator bench.
@@ -64,6 +67,8 @@ CRAFTING:
 - IceWater_Drink lower cost
 
 - Basic_Fertilizer output 1 to 10
+
+- Reinforced Concrete buildings added, Just add water to mixer
 
 FOOD BUFFS:
 
