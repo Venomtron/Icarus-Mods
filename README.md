@@ -70,6 +70,8 @@ CRAFTING:
 
 - Reinforced Concrete buildings added, Just add water to mixer
 
+- Water Pump, hose & sprinker added to machining bench
+
 FOOD BUFFS:
 
 - Cooked Meat & Prime Meat: Health Recovery increase to 50
