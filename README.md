@@ -171,3 +171,5 @@ Other:
 - Wolf knife and arrow increased to 100 damaged
 
 - Campfire & fireplace Added 6 slots
+
+- Removed negative stamina modifier from underground debuff 
