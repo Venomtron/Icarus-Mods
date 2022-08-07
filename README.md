@@ -128,6 +128,8 @@ WORKSHOP ITEMS:
 
 - CX-400 Armor Set: Chance To Fell Tree Instantly 1 to 10% Chance To Mine Voxel Instantly 1 - 2% added Weight Capacity -15% Stealth Damage 15% Animal Threat Modifier -35%
 
+- Inaris pick, knife & Axe Larkwell Axe, Can be used in alterations bench
+
 Talents:
 
 - Bow Double Arrows: increased from 15% to 25%
@@ -139,6 +141,8 @@ Talents:
 - Resources Exotic Weight: increased from -25% to -50%
 
 - Resources Food Buff Slot: increased from 1 to 2
+
+- Strong pick Talent now Durability 8 - 500% health
 
 Other:
 
@@ -173,3 +177,5 @@ Other:
 - Campfire & fireplace Added 6 slots
 
 - Removed negative stamina modifier from underground debuff 
+
+- Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum)
