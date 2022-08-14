@@ -144,7 +144,6 @@ Talents:
 
 - Strong pick Talent now Durability 8 - 500% health
 
-- Standerd Larkwell Bolt now get 100 bolts instead of 25
 
 Other:
 
@@ -180,6 +179,8 @@ Other:
 
 - Removed negative stamina modifier from underground debuff 
 
-- Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum)
+- Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum & Titanium)
 
-- incrased all of the Bolts damages 
+- Incrased all of the Bolts damages 
+
+- Standerd Larkwell Bolt now get 100 bolts instead of 25
