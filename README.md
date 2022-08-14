@@ -171,7 +171,7 @@ Other:
 
 - Basic Fertilizer: Planted Crop Yield 15 to 50 Crop Growth Speed 15 to 25
 
-- Extractor Electric: can be placed in inventory Extractor Drill Speed 100% (almost instant)
+- Extractor Electric: can be placed in inventory Extractor & Drill Speed 100%
 
 - Wolf knife and arrow increased to 100 damaged
 
