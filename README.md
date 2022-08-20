@@ -124,11 +124,15 @@ WORKSHOP ITEMS:
 
 - Extractor: can be placed in inventory Extractor Drill Speed 100% (almost instant)
 
-- Arrow Larkwell Standard: Gives 100 instead of 25
+- Arrow Larkwell Standard: Gives 50 instead of 25
 
 - CX-400 Armor Set: Chance To Fell Tree Instantly 1 to 10% Chance To Mine Voxel Instantly 1 - 2% added Weight Capacity -15% Stealth Damage 15% Animal Threat Modifier -35%
 
 - Inaris pick, knife & Axe Larkwell Axe, Can be used in alterations bench
+
+- Standerd Larkwell Bolt now get 50 bolts instead of 25
+
+- Workshop armor CX-400 set, Attachments added.
 
 Talents:
 
@@ -183,4 +187,4 @@ Other:
 
 - Incrased all of the Bolts damages 
 
-- Standerd Larkwell Bolt now get 100 bolts instead of 25
+
