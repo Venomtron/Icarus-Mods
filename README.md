@@ -106,7 +106,7 @@ WORKSHOP ITEMS:
 
 - Arrow Larkwell Tazer: Damaged increased 30 to 100
 
-- Meta_Mushroom_Seed: Changed to a survivor kit, rewarding 1 of each Pumpkin, Prime meat, Vegetable pie, Roasted Vegetables all Seed packs(no berry) & 100 Ice. to help start your mission.
+- Meta_Mushroom_Seed: Changed to a survivor kit, rewarding 1 of each Pumpkin, Prime meat, Vegetable pie, Roasted Vegetables all Seed packs, repair kit & 100 Ice. to help start your mission.
 
 - Mining_Backpack: Added Back pack Slots +12,Bow Reload Speed +25,Arrow Projectile Speed +10%,Bow Aim Down Sights Speed +10%
 
@@ -134,6 +134,8 @@ WORKSHOP ITEMS:
 
 - Workshop armor CX-400 set, Attachments added.
 
+- Larkwell Martinez Compound Bow 25% change to slow & 50% damage dealth to hardened points ( same as cossbow Heavy stats)
+
 Talents:
 
 - Bow Double Arrows: increased from 15% to 25%
@@ -153,7 +155,7 @@ Other:
 
 - Lantern: 1L to 5L capacity
 
-- Glass working Bench: water requirement changed from 1000 to 100
+- Glass working Bench: water requirement changed from 250 to 100
 
 - ALCAZAR: Construction mission: all exotic nodes give 200-400. weather lowered to MediumWeatherPool from Quick_Multi_MedToHeavy (note this may be removed from future updates
 )
@@ -183,8 +185,21 @@ Other:
 
 - Removed negative stamina modifier from underground debuff 
 
-- Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum & Titanium)
-
 - Incrased all of the Bolts damages 
 
+Alterations:
+
+- Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum & Titanium)
+
+- Carvass Harvesting lvl 1 50% Yield from creature bone & 50% yield from skinning fur
+
+- Supplemental respiration lvl 1 Attachment 60% health regen in caves & 50% change to resist Pneumonia (helmet mod)
+
+- Supplemental respiration lvl 2 Attachment 90% health regen in caves & 75% change to resist Pneumonia (helmet mod)
+
+- Rubberized lvl 1 Attachment 20% Advoid Sprain damage &+ 10% weight capacity
+
+- Rubberized lvl 2 Attachment 40% Advoid Sprain damage &+ 20% weight capacity
+
+- Recovery Attachment Buffed all from 20% to 50%
 
