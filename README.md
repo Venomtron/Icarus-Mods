@@ -197,8 +197,8 @@ Alterations:
 
 - Supplemental respiration lvl 2 Attachment 90% health regen in caves & 75% chance to resist Pneumonia (helmet mod
 
-- Rubberized lvl 1 Attachment 20% Advoid Sprain damage &+ 10% weight capacity
+- Rubberized lvl 1 Attachment 20% Avoid Sprain damage &+ 10% weight capacity
 
-- Rubberized lvl 2 Attachment 40% Advoid Sprain damage &+ 20% weight capacity
+- Rubberized lvl 2 Attachment 40% Avoid Sprain damage &+ 20% weight capacity
 
 - Recovery Attachment Buffed all from 20% to 50%
