@@ -134,7 +134,7 @@ WORKSHOP ITEMS:
 
 - Workshop armor CX-400 set, Attachments added.
 
-- Larkwell Martinez Compound Bow 25% change to slow & 50% damage dealth to hardened points ( same as cossbow Heavy stats)
+- Larkwell Martinez Compound Bow 25% chance to slow & 50% damage dealt to hardened points ( same as Heavy crossbow stats)
 
 Talents:
 
@@ -191,15 +191,14 @@ Alterations:
 
 - Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum & Titanium)
 
-- Carvass Harvesting lvl 1 50% Yield from creature bone & 50% yield from skinning fur
+- Carcass Harvesting lvl 1 50% Yield from creature bone & 50% yield from skinning fur
 
-- Supplemental respiration lvl 1 Attachment 60% health regen in caves & 50% change to resist Pneumonia (helmet mod)
+- Supplemental respiration lvl 1 Attachment 60% health regen in caves & 50% chance to resist Pneumonia (helmet mod)
 
-- Supplemental respiration lvl 2 Attachment 90% health regen in caves & 75% change to resist Pneumonia (helmet mod)
+- Supplemental respiration lvl 2 Attachment 90% health regen in caves & 75% chance to resist Pneumonia (helmet mod
 
 - Rubberized lvl 1 Attachment 20% Advoid Sprain damage &+ 10% weight capacity
 
 - Rubberized lvl 2 Attachment 40% Advoid Sprain damage &+ 20% weight capacity
 
 - Recovery Attachment Buffed all from 20% to 50%
-
