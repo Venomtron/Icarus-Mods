@@ -190,6 +190,8 @@ Other:
 
 - Campfire & fireplace Added 6 slots
 
+- Removes All Extractors & Radars From G slot Added to inventory.
+
 - Removed negative stamina modifier from underground debuff 
 
 - Incrased all of the Bolts damages 
