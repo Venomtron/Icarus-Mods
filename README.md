@@ -1,5 +1,12 @@
 VenomTron Mod for Icarus
 
+------------------------------------------------------
+Extractor - Radar 
+- Removes All Extractors & Radars From G slot Added to inventory.
+No other changes
+--------------------------------------------------
+
+Data (main mod)
 
 ITEM STACK SIZES:
 
