@@ -143,6 +143,8 @@ WORKSHOP ITEMS:
 
 - Larkwell Martinez Compound Bow 25% chance to slow & 50% damage dealt to hardened points ( same as Heavy crossbow stats)
 
+- Larkwell Martinez Compound Attachments added
+
 Talents:
 
 - Bow Double Arrows: increased from 15% to 25%
