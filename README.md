@@ -174,6 +174,8 @@ Other:
 
 - Wheat Crops: Random Stack Count 15 - 40
 
+- Mushroom Crops Random Stack Count 4 - 9
+
 - Ice: Random Stack Count 1 - 10
 
 - Carrot Crops: 4 - 6
