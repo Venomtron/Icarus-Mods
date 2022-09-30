@@ -198,7 +198,15 @@ Other:
 
 - Removed negative stamina modifier from underground debuff 
 
-- Incrased all of the Bolts damages 
+- Incrased all of the Bolts damages
+
+Bonus stats added to saddle:
+- Increased Weight capacity
+- Increased stamina
+- Added Threat modifier -75%
+- Increased health regen
+- Increased Stamina regen
+- Increased Movement speed 10%
 
 Alterations:
 
