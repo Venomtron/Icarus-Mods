@@ -79,6 +79,10 @@ CRAFTING:
 
 - Water Pump, hose & sprinkler added to machining bench
 
+- Waterwheel lowered cost
+
+- Mammoth tusk Bone dust increased from 10 to 100
+
 FOOD BUFFS:
 
 - Cooked Meat & Prime Meat: Health Recovery increase to 50
@@ -199,6 +203,14 @@ Other:
 - Removed negative stamina modifier from underground debuff 
 
 - Incrased all of the Bolts damages
+
+- Waterwheel slots increase to 24 from 12
+
+- Sink slots increase to 10 from 5
+
+- WaterWheel power increased to 10k from 2k
+
+- WaterWheel moved from Fabricator to machining bench
 
 Bonus stats added to saddle:
 - Increased Weight capacity
