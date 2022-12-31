@@ -220,6 +220,8 @@ Bonus stats added to saddle:
 - Increased Stamina regen
 - Increased Movement speed 10%
 
+- Cart Base Movement Speed set to zero from -40
+
 Alterations:
 
 - Gold yield 1 attachment changed to give all yield 2 buffs (gold, Cooper, Platinum & Titanium)
