@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "name": "First Mod Name",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W57",
+      "description": "Larage amount of basic changes to the game see read me on Github for full details",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Venomtron.pak"
+    },
+    {
+      "name": "Extractor-Rada",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W57",
+      "description": "Extractors & Radars can be placed in inventory",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Extractor-Radar_P.pak"
+    }
+  ]
+}
