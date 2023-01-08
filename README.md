@@ -6,7 +6,7 @@ Extractor - Radar
 No other changes
 --------------------------------------------------
 
-Data (main mod)
+Venomtron (main mod) Formally called Data
 
 ITEM STACK SIZES:
 
