@@ -7,7 +7,7 @@
       "compatibility": "W57",
       "description": "Large amount of basic changes to the game see read me on Github for full details",
       "fileType": "pak",
-      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Venomtron.pak"
+      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Venomtron.pak",
       "imageURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Venomtron.png"
     },
     {
@@ -17,7 +17,7 @@
       "compatibility": "W57",
       "description": "Extractors & Radars can be placed in inventory",
       "fileType": "pak",
-      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Extractor-Radar_P.pak"
+      "fileURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Extractor-Radar_P.pak",
       "imageURL": "https://github.com/Venomtron/Icarus-Mods/blob/main/Extractor-Radar_P.png"
     }
   ]
