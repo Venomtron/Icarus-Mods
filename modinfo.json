@@ -5,10 +5,11 @@
       "author": "Venomtron",
       "version": "1.0",
       "compatibility": "W58",
-      "description": "Large amount of basic changes to the game see read me on Github for full details",
+      "description": "QOL mod, that changes many items to make the game less "grindy" See read me file for list of changes",
       "fileType": "pak",
       "fileURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron.pak",
-      "imageURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron.png"
+      "imageURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron.png",
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
     },
     {
       "name": "Extractor-Radar",
@@ -18,7 +19,8 @@
       "description": "Extractors & Radars can be placed in inventory",
       "fileType": "pak",
       "fileURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.pak",
-      "imageURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.png"
+      "imageURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.png",
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
     }
   ]
 }
