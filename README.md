@@ -109,6 +109,8 @@ Power generators:
 
 - solar & bio generator up to 50k output
 
+- Waterwheel Upped to 15k output
+
 WORKSHOP ITEMS:
 
 - Inaris_Envirosuit_Alpha: Backpack Slots negative modifier Removed, added Food slots 1, upgrade slots 4, stamina regen +100%, Stealth Threat Modifier -25%.
@@ -170,8 +172,6 @@ Other:
 
 - Glass working Bench: water requirement changed from 250 to 100
 
-- ALCAZAR: Construction mission: all exotic nodes give 200-400. weather lowered to MediumWeatherPool from Quick_Multi_MedToHeavy (note this may be removed from future updates
-)
 - IceBox: Spoil Rate changed from -500 to -50,000 (if you have spoiling talents will have a timer in the millions aka won't spoil
 
 - Fridge: Spoil Rate changed from -1000 to -100,000 (if you have spoiling talents will have a timer in the millions aka won't spoil
