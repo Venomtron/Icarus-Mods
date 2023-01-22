@@ -11,6 +11,16 @@
       "imageURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron.png",
       "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
     },
+        {
+      "name": "Fillable",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W59",
+      "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern",
+      "fileType": "pak",
+      "fileURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Fillable_P.pak",
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },
     {
       "name": "Extractor-Radar",
       "author": "Venomtron",
