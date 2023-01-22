@@ -16,7 +16,7 @@
       "author": "Venomtron",
       "version": "1.0",
       "compatibility": "W59",
-      "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern",
+      "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern (not compatible with Venomtron mod)",
       "fileType": "pak",
       "fileURL": "https://github.com/Venomtron/Icarus-Mods/raw/main/Fillable_P.pak",
       "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
