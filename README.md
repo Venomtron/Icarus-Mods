@@ -5,6 +5,12 @@ Extractor - Radar
 - Removes All Extractors & Radars From G slot Added to inventory.
 No other changes
 --------------------------------------------------
+Fillable (not compatible with Venomtron mod)
+- Canteen 5k - 10k
+- Oxygen tank 5k-10k
+- Jerry can 10k - 20k
+- Lantern 1k - 5k
+-------------------------------------------------
 
 Venomtron (main mod) Formally called Data
 
