@@ -3,7 +3,7 @@
     {
       "name": "Venomtron",
       "author": "Venomtron",
-      "version": "W61",
+      "version": "61.0",
       "compatibility": "W61",
       "description": "QOL mod, that changes many items to make the game less grindy See read me file for list of changes",
       "files": {
@@ -15,7 +15,7 @@
         {
       "name": "Fillable",
       "author": "Venomtron",
-      "version": "W61",
+      "version": "61.0",
       "compatibility": "W61",
       "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern (not compatible with Venomtron mod)",
       "files": {
@@ -26,7 +26,7 @@
     {
       "name": "Extractor-Radar",
       "author": "Venomtron",
-      "version": "W61",
+      "version": "61.0",
       "compatibility": "W61",
       "description": "Extractors & Radars can be placed in inventory",
       "files": {
