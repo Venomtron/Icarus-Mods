@@ -3,8 +3,8 @@
     {
       "name": "Venomtron",
       "author": "Venomtron",
-      "version": "61.0",
-      "compatibility": "W61",
+      "version": "62.0",
+      "compatibility": "W62",
       "description": "QOL mod, that changes many items to make the game less grindy See read me file for list of changes",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron_P.pak"
@@ -15,8 +15,8 @@
         {
       "name": "Fillable",
       "author": "Venomtron",
-      "version": "61.0",
-      "compatibility": "W61",
+      "version": "62.0",
+      "compatibility": "W62",
       "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Fillable_P.pak"
@@ -26,8 +26,8 @@
     {
       "name": "Extractor-Radar",
       "author": "Venomtron",
-      "version": "61.0",
-      "compatibility": "W61",
+      "version": "62.0",
+      "compatibility": "W62",
       "description": "Extractors & Radars can be placed in inventory",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.pak"
