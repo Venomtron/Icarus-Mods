@@ -218,6 +218,12 @@ Other:
 
 - WaterWheel moved from Fabricator to machining bench
 
+- Added Cooked meat, Fish, Giant steak, Fatty T-bone, Gamey, Soft, Stringy, White & bacon to Kitchen / Electric Stove.
+
+- Added Cured leather to Epoxy recipe to Fabricator
+
+- Aluminum Building same as Stone buildings
+
 Bonus stats added to saddle:
 - Increased Weight capacity
 - Increased stamina
@@ -243,3 +249,9 @@ Alterations:
 - Rubberized lvl 2 Attachment 40% Avoid Sprain damage &+ 20% weight capacity
 
 - Recovery Attachment Buffed all from 20% to 50%
+
+- Added 20% Rare meat chance Connoisseur attachment
+
+- Added tier 2 Connoisseur attachment 100% Bones, Fur, leather, 50% melee damage 20% Attack speed & 40% Rare meat chance
+
+- Added tier 2 Goldsmith 75% yield gold, Copper, Plat, Titanium, -10% stamina consumed
