@@ -27,7 +27,7 @@
       "name": "Extractor-Radar",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W70
+      "compatibility": "W70"
       "description": "Extractors & Radars can be placed in inventory",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.pak"
