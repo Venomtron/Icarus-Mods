@@ -143,8 +143,6 @@ WORKSHOP ITEMS:
 
 - Extractor: can be placed in inventory Extractor Drill Speed 100% (almost instant)
 
-- Arrow Larkwell Standard: Gives 50 instead of 25
-
 - CX-400 Armor Set: Chance To Fell Tree Instantly 1 to 10% Chance To Mine Voxel Instantly 1 - 2% added Weight Capacity -15% Stealth Damage 15% Animal Threat Modifier -35%
 
 - Inaris pick, knife & Axe Larkwell Axe, Can be used in alterations bench
@@ -255,3 +253,28 @@ Alterations:
 - Added tier 2 Connoisseur attachment 100% Bones, Fur, leather, 50% melee damage 20% Attack speed & 40% Rare meat chance
 
 - Added tier 2 Goldsmith 75% yield gold, Copper, Plat, Titanium, -10% stamina consumed
+
+Updates:
+
+- Added Cooked meat, Fish, Giant steak, Fatty T-bone, Gamey, Soft, Stringy, White & bacon to Kitchen / Electric Stove.
+- Added Cured leather to Epoxy recipe to Fabricator
+- Aluminum Building same as Stone buildings
+- Added 20% Rare meat chance Connoisseur attachment
+- Added tier 2 Connoisseur attachment 100% Bones, Fur, leather, 50% melee damage 20% Attack speed & 40% Rare meat chance
+- Added tier 2 Goldsmith 75% yield gold, Copper, Plat, Titanium, -10% stamina consumed
+- Waterwheel output changed from 15k to 25k
+- Survivor Kit (mushroom pack) Updated to include Kumara % Rhubarb
+- Rhubarb Crops: Random Stack Count 2 - 9 Was 2 - 5
+- Kumara Crops: Random Stack Count 2 - 9 Was 2 - 5
+- complete set of Composite Armor Now has same perks as CX-400 Armor Set. plus bonus 2 Mod slots (to encourage making armor on plant)
+- Yield Fertilizer Uped to yield 100% & Growth speed 50%
+- Fertilizer Stack size up to 100 from 50 lowered weight by 50%
+- Spoiled Plants Stack size upped 500 from 10
+- Food types stack sized changed to 100
+- All Floor wall etc stack sizes up to 100
+- Kitchen Benchs water requirements lowed to 100 from 250
+- Crop Plot water requirement lowered to 5 from 15
+- Mount Buffalo stamina Regen Per Minute increased, Stamina Regen From Empty Delay Decreased, Stamina Regen Delay Decreased
+- Added Fur To Leather recipe
+- Upped Lantern capacity 10k
+- Drying Rack now stackable
