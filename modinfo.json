@@ -23,6 +23,39 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
     },
+        {
+      "name": "Experience",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W79",
+      "description": "Intended for leveling up a new character. Just drop down to planet, and start cutting down trees.Chop Tree = 1 mill XPFell Tree = 1 mill XP",
+      "files": {
+        "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Experience_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },
+        {
+      "name": "Bestiary",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W79",
+      "description": "Increases the amount of Bestiary points (not compatible with Venomtron mod)",
+      "files": {
+        "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },
+        {
+      "name": "Bestiary Mega",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W79",
+      "description": "Increases the amount of Bestiary points. 1000 points per kill/skin (not compatible with Venomtron mod)",
+      "files": {
+        "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary_Mega_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },
     {
       "name": "Extractor-Radar",
       "author": "Venomtron",
