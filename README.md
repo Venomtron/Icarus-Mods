@@ -11,6 +11,32 @@ Fillable (not compatible with Venomtron mod)
 - Jerry can 10k - 20k
 - Lantern 1k - 5k
 -------------------------------------------------
+Experience 
+Intended for leveling up a new character.
+Just drop down to planet, and start cutting down trees.
+Chop Tree = 1 mill XP
+Fell Tree = 1 mill XP
+--------------------------------------------------
+Bestiary
+Increases Bestiary points
+Kill: 5
+Skin: 10 
+Skin With Trophy Knife: 20
+Skin On Bench: 20
+Killed By: 20
+Kill Boss: 30
+Craft Trophy: 20
+--------------------------------------------------
+Bestiary Mega
+Increases Bestiary points
+Kill: 1000
+Skin: 1000
+Skin with Trophy Knife: 2000
+Skin On Bench: 2000
+Killed By: 2000
+Kill Boss: 3000
+Craft Trophy: 2000
+--------------------------------------------------
 
 Venomtron (main mod) Formally called Data
 
