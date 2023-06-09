@@ -278,3 +278,4 @@ Updates:
 - Added Fur To Leather recipe
 - Upped Lantern capacity 10k
 - Drying Rack now stackable
+- Sturdy 2 Attachment how has highlighted projectiles 
