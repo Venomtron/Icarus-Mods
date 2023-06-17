@@ -305,3 +305,12 @@ Updates:
 - Upped Lantern capacity 10k
 - Drying Rack now stackable
 - Sturdy 2 Attachment how has highlighted projectiles 
+- Saddle Cart Weight Capacity upped to 4000 from 1000
+- Saddle Cart Base Movement Speed 200 added
+- Saddle Cart Animal Threat Modifier -75%
+- New DLC lamps now can stack
+- New DLC lamps costs lowered
+- Volatile Substance Decay increased
+- Chamois Fur drop increased from 1-2 TO 5-10
+- Deer Fur drop increased from 1-2 TO 5-10
+- Dogtags Lure Buffed Added Caught Fresh water Fish Quality 20%, Fishing Capture Zone Size 20%, Caught Fish Length 20%
