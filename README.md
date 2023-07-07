@@ -314,3 +314,8 @@ Updates:
 - Chamois Fur drop increased from 1-2 TO 5-10
 - Deer Fur drop increased from 1-2 TO 5-10
 - Dogtags Lure Buffed Added Caught Fresh water Fish Quality 20%, Fishing Capture Zone Size 20%, Caught Fish Length 20%
+V74 update
+- Added Saddle Recipe to Advanced Textiles Bench
+- Speed up, Stick, Gunpower & Volatile substance, Copper wire & Gold wire crafting time
+- Compound Bow 35% chance to slow & 100% damage dealt to hardened points & increase damage output
+- Increased Stack Size for Rebar
