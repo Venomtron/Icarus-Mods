@@ -319,3 +319,6 @@ V74 update
 - Speed up, Stick, Gunpower & Volatile substance, Copper wire & Gold wire crafting time
 - Compound Bow 35% chance to slow & 100% damage dealt to hardened points & increase damage output
 - Increased Stack Size for Rebar
+V74.1
+- Fixed Survivor Kit got giving all the food. updted the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
+- Added health to some Tier 4 foods (Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
