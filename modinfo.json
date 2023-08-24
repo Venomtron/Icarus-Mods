@@ -4,7 +4,7 @@
       "name": "Venomtron",
       "author": "Venomtron",
       "version": "74.2",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "QOL mod, that changes many items to make the game less grindy See read me file for a list of changes",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron_P.pak"
@@ -16,7 +16,7 @@
       "name": "Fillable",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Fillable_P.pak"
@@ -27,7 +27,7 @@
       "name": "Experience",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "Intended for leveling up a new character. Just drop down to planet, and start cutting down trees.Chop Tree = 1 mill XPFell Tree = 1 mill XP",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Experience_P.pak"
@@ -38,7 +38,7 @@
       "name": "Bestiary",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "Increases the amount of Bestiary points (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary_P.pak"
@@ -49,7 +49,7 @@
       "name": "Bestiary Mega",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "Increases the amount of Bestiary points. 1000 points per kill/skin (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary_Mega_P.pak"
@@ -60,7 +60,7 @@
       "name": "Extractor-Radar",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W89",
+      "compatibility": "W90",
       "description": "Extractors & Radars can be placed in inventory",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.pak"
