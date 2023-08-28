@@ -13,7 +13,7 @@ Fillable (not compatible with Venomtron mod)
 -------------------------------------------------
 Experience 
 Intended for leveling up a new character.
-Just drop down to planet, and start cutting down trees.
+Just drop down to the planet, and start cutting down trees.
 Chop Tree = 1 mill XP
 Fell Tree = 1 mill XP
 --------------------------------------------------
@@ -37,12 +37,18 @@ Killed By: 2000
 Kill Boss: 3000
 Craft Trophy: 2000
 --------------------------------------------------
+Harvester 1 sec
+Speeds up the Harvesting of red exotics and the cleansing of them.
+--------------------------------------------------
+Harvester 5 sec
+Speeds up the Harvesting of red exotics and the cleansing of them.
+--------------------------------------------------
 
 Venomtron (main mod) Formally called Data
 
 ITEM STACK SIZES:
 
-- Almost every item sized has been doubled or more.
+- Almost every item size has been doubled or more.
 
 - Weight has been lowered by 50% or more.
 
@@ -57,7 +63,7 @@ ITEM STACK SIZES:
 
 CRAFTING:
 
-- Ballistic and Tazer arrows can now be crafted in fabricator bench.
+- Ballistic and Tazer arrows can now be crafted in a fabricator bench.
 
 - Electric deep ore miner - Solar panel & electric wire moved to machining bench. Recipes changed to reflect
 
@@ -230,9 +236,9 @@ Other:
 
 - Removes All Extractors & Radars From G slot Added to inventory.
 
-- Removed negative stamina modifier from underground debuff 
+- Removed negative stamina modifier from the underground debuff 
 
-- Incrased all of the Bolts damages
+- Incrased all of the bolt's damages
 
 - Waterwheel slots increase to 24 from 12
 
@@ -246,7 +252,7 @@ Other:
 
 - Added Cured leather to Epoxy recipe to Fabricator
 
-- Aluminum Building same as Stone buildings
+- Aluminum buildings same as Stone buildings
 
 Bonus stats added to saddle:
 - Increased Weight capacity
@@ -284,7 +290,7 @@ Updates:
 
 - Added Cooked meat, Fish, Giant steak, Fatty T-bone, Gamey, Soft, Stringy, White & bacon to Kitchen / Electric Stove.
 - Added Cured leather to Epoxy recipe to Fabricator
-- Aluminum Building same as Stone buildings
+- Aluminum Buildings same as Stone buildings
 - Added 20% Rare meat chance Connoisseur attachment
 - Added tier 2 Connoisseur attachment 100% Bones, Fur, leather, 50% melee damage 20% Attack speed & 40% Rare meat chance
 - Added tier 2 Goldsmith 75% yield gold, Copper, Plat, Titanium, -10% stamina consumed
@@ -292,18 +298,18 @@ Updates:
 - Survivor Kit (mushroom pack) Updated to include Kumara % Rhubarb
 - Rhubarb Crops: Random Stack Count 2 - 9 Was 2 - 5
 - Kumara Crops: Random Stack Count 2 - 9 Was 2 - 5
-- complete set of Composite Armor Now has same perks as CX-400 Armor Set. plus bonus 2 Mod slots (to encourage making armor on plant)
+- The complete set of Composite Armor Now has the same perks as CX-400 Armor Set. plus bonus 2 Mod slots (to encourage making armor on plant)
 - Yield Fertilizer Uped to yield 100% & Growth speed 50%
 - Fertilizer Stack size up to 100 from 50 lowered weight by 50%
 - Spoiled Plants Stack size upped 500 from 10
 - Food types stack sized changed to 100
-- All Floor wall etc stack sizes up to 100
-- Kitchen Benchs water requirements lowed to 100 from 250
+- All Floor walls etc stack sizes up to 100
+- Kitchen Benches water requirements lowed to 100 from 250
 - Crop Plot water requirement lowered to 5 from 15
 - Mount Buffalo stamina Regen Per Minute increased, Stamina Regen From Empty Delay Decreased, Stamina Regen Delay Decreased
 - Added Fur To Leather recipe
 - Upped Lantern capacity 10k
-- Drying Rack now stackable
+- Drying Rack is now stackable
 - Sturdy 2 Attachment how has highlighted projectiles 
 - Saddle Cart Weight Capacity upped to 4000 from 1000
 - Saddle Cart Base Movement Speed 200 added
@@ -313,12 +319,12 @@ Updates:
 - Volatile Substance Decay increased
 - Chamois Fur drop increased from 1-2 TO 5-10
 - Deer Fur drop increased from 1-2 TO 5-10
-- Dogtags Lure Buffed Added Caught Fresh water Fish Quality 20%, Fishing Capture Zone Size 20%, Caught Fish Length 20%
+- Dogtags Lure Buffed Added Caught Freshwater Fish Quality 20%, Fishing Capture Zone Size 20%, Caught Fish Length 20%
 V74 update
 - Added Saddle Recipe to Advanced Textiles Bench
 - Speed up, Stick, Gunpower & Volatile substance, Copper wire & Gold wire crafting time
 - Compound Bow 35% chance to slow & 100% damage dealt to hardened points & increase damage output
 - Increased Stack Size for Rebar
 V74.1
-- Fixed Survivor Kit got giving all the food. updted the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
-- Added health to some Tier 4 foods (Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
+- Fixed Survivor Kit got giving all the food. updated the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
+- Added health to some Tier 4 foods (Pumpkin bread, shepherd roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
