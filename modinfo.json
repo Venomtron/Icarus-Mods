@@ -56,6 +56,28 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
     },
+       {
+      "name": "Harvester 1 sec",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W90",
+      "description": "Speeds up the Harvesting of red exotics and the cleansing of them. (not compatible with Venomtron mod)",
+      "files": {
+        "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Harvester%201sec_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },
+         {
+      "name": "Harvester 5 sec",
+      "author": "Venomtron",
+      "version": "1.0",
+      "compatibility": "W90",
+      "description": "Speeds up the Harvesting of red exotics and the cleansing of them. (not compatible with Venomtron mod)",
+      "files": {
+        "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Harvester%205sec_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Venomtron/Icarus-Mods/main/README.md"
+    },  
     {
       "name": "Extractor-Radar",
       "author": "Venomtron",
