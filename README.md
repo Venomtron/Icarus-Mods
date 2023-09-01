@@ -328,3 +328,18 @@ V74 update
 V74.1
 - Fixed Survivor Kit got giving all the food. updated the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
 - Added health to some Tier 4 foods (Pumpkin bread, shepherd roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
+
+V75
+- Survivor Kit updated for Tomato & potato
+- Stack size of new foods and Items increased
+- Larkwell Heated Canteen & Larkwell Oxygen Tank pre-fill (have to manually fill 1st time)
+- Larkwell Bulwark Envirosuit added 4 modules, Stamina Regen, Perceived threat -25%, Food slot & water slot
+- wood bed & carved bed now stack
+- Animal Beds now stack
+- red exotic harvest and cleanse speed increased
+- Heavy Obsidian Armor Set Explosive Damage Resistance 50, Fire Resistance In Lava 90, Volcanic Exposure Resistance 25, Chance To Fell TreeInstantly 25, Chance To Mine Voxel Instantly 2, Weight Capacity 15,
+Stealth Damage 15, Animal Threat Modifier -35, Mining Rewards 25, Felling Rewards 25, Module Slots +2.
+- Heater and AC buffed.
+-Lowered costs of Clay, scoria & Scoria brick buildings cost
+- Wind turbine moved to machining bench
+- Wind turbine Power output 5k
