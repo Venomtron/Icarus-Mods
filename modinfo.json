@@ -4,7 +4,7 @@
       "name": "Venomtron",
       "author": "Venomtron",
       "version": "75",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "QOL mod, that changes many items to make the game less grindy See read me file for a list of changes",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron_P.pak"
@@ -16,7 +16,7 @@
       "name": "Fillable",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Doubles amount held in Canteen, Oxygen tank, Jerry can & lantern (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Fillable_P.pak"
@@ -27,7 +27,7 @@
       "name": "Experience",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Intended for leveling up a new character. Just drop down to planet, and start cutting down trees.Chop Tree = 1 mill XPFell Tree = 1 mill XP",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Experience_P.pak"
@@ -38,7 +38,7 @@
       "name": "Bestiary",
       "author": "Venomtron",
       "version": "1.1",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Increases the amount of Bestiary points (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary_P.pak"
@@ -49,7 +49,7 @@
       "name": "Bestiary Mega",
       "author": "Venomtron",
       "version": "1.1",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Increases the amount of Bestiary points. 1000 points per kill/skin (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Bestiary%20Mega_P.pak"
@@ -60,7 +60,7 @@
       "name": "Harvester 1 sec",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Speeds up the Harvesting of red exotics and the cleansing of them. (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Harvester%201sec_P.pak"
@@ -71,7 +71,7 @@
       "name": "Harvester 5 sec",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Speeds up the Harvesting of red exotics and the cleansing of them. (not compatible with Venomtron mod)",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Harvester%205sec_P.pak"
@@ -82,7 +82,7 @@
       "name": "Extractor-Radar",
       "author": "Venomtron",
       "version": "1.0",
-      "compatibility": "W91",
+      "compatibility": "W92",
       "description": "Extractors & Radars can be placed in inventory",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Extractor-Radar_P.pak"
