@@ -179,7 +179,7 @@ WORKSHOP ITEMS:
 
 - Inaris pick, knife & Axe Larkwell Axe, Can be used in alterations bench
 
-- Standerd Larkwell Bolt now get 50 bolts instead of 25
+- Standard Larkwell Bolt now get 50 bolts instead of 25
 
 - Workshop armor CX-400 set, Attachments added.
 
@@ -238,7 +238,7 @@ Other:
 
 - Removed negative stamina modifier from the underground debuff 
 
-- Incrased all of the bolt's damages
+- Increased all of the bolt's damages
 
 - Waterwheel slots increase to 24 from 12
 
@@ -326,8 +326,8 @@ V74 update
 - Compound Bow 35% chance to slow & 100% damage dealt to hardened points & increase damage output
 - Increased Stack Size for Rebar
 V74.1
-- Fixed Survivor Kit got giving all the food. updated the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
-- Added health to some Tier 4 foods (Pumpkin bread, shepherd roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
+- Fixed Survivor Kit gave all the food. updated the foods, 5 of each Pumpkin bread, Shepherds Roll, Vegetable pie, Roasted Vegetables, Savory Roll all Seed packs, repair kit, Thermos & 100 Ice.
+- Added health to some Tier 4 foods (Pumpkin bread, shepherd's roll, Vegetable pie, Roasted Vegetables, Savory Roll, Vegetable Roll, Sweet corn & stir fry)
 
 V75
 - Survivor Kit updated for Tomato & potato
@@ -343,3 +343,25 @@ Stealth Damage 15, Animal Threat Modifier -35, Mining Rewards 25, Felling Reward
 -Lowered costs of Clay, scoria & Scoria brick buildings cost
 - Wind turbine moved to machining bench
 - Wind turbine Power output 5k
+
+V76
+- Small/Med tree harvest increase
+- Wind turbine stack
+- Solar stack
+- Deep ore Drill stack
+- Eclectic exotic drill stack
+- Wind turbine up to 10k output
+- Seed_Fatigue removed
+- Horse swim speed increased
+- hydro plot costs lowered & stack
+- Platinum Shealth crafting time decreased
+- Titanium Plate crafting time decreased
+- WorkerBee stack size increased by 100
+- Beehive in world loot increase: honeycomb 6-10, Queen 50% drop rate & 1-2, worker bee 3-6
+- Honey products stack size 
+- Basic battery moved to machine bench removed titanium plate replaced with refined copper
+- Moved electric water pump back to t4
+- DLC bed's weight decreased to 1000 from 5000
+- Moved wind turbine back to T4
+- Flow meter move to machining bench
+- Lowered output of water wheel & solar: water 5k solar 10k
