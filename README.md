@@ -365,3 +365,6 @@ V76
 - Moved wind turbine back to T4
 - Flow meter move to machining bench
 - Lowered output of water wheel & solar: water 5k solar 10k
+
+V76.1
+Fixed Basic battery now shows up in the machining bench
