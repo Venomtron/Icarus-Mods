@@ -4,7 +4,7 @@
       "name": "Venomtron",
       "author": "Venomtron",
       "version": "76.1",
-      "compatibility": "W117",
+      "compatibility": "W127",
       "description": "QOL mod, that changes many items to make the game less grindy See read me file for a list of changes",
       "files": {
         "pak": "https://github.com/Venomtron/Icarus-Mods/raw/main/Venomtron_P.pak"
